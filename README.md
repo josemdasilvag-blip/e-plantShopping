@@ -6,6 +6,8 @@ shopping cart, and adjust or remove the items in the cart before checkout.
 
 Final project for the IBM *Developing Front-End Apps with React* course.
 
+**Live application:** https://josemdasilvag-blip.github.io/e-plantShopping/
+
 ## Features
 
 ### Landing page
