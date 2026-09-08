@@ -1,5 +1,7 @@
 # Paradise Nursery Shopping Cart Application
 
+**Project name / repository:** `e-plantShopping`
+
 A single-page React shopping application for **Paradise Nursery**, an online house-plant
 store. Users browse a catalogue of house plants grouped by category, add them to a
 shopping cart, and adjust or remove the items in the cart before checkout.
